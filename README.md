@@ -1,7 +1,8 @@
 <h1> Hi there 👋 </h1>
 - 🤔 I’m looking for help with https://starverify.app
+<br>
 - 📫 How to reach me: ZacBytes#8673 on Discord
-
+<br><br>
 
 <h1> Github Stats </h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharylimjx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
