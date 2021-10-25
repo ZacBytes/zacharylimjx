@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharylimjx&count_private=true&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharylimjx&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **zacharylimjx/zacharylimjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
